@@ -33,7 +33,7 @@ e) a área do retângulo que tem lados A e B.
 
 Exc 1) 
 
-![imagem1](../Exc01/assets/1.png)
+![imagem1](/Exc01/assets/1.png)
 
 Exc 2)
 
